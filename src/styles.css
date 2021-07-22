@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Arial Black";
+}
+
+.welcome{
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.card {
+    border: none;
+}
+
+.btn-primary{
+    background-color: red;
+    border: red;
+}
+
+.btn-primary:hover{
+    background-color: darkred;
+    border: darkred;
+}
+
+.see-exhibitions{
+    padding: 10px;
+}
+
+.address{
+    background-color: black;
+    color: white;
+    padding: 3rem 0 3rem 6rem;
+    text-align: left;
+}
+
+.logo{
+    padding-top: 40px;
+}
+
+.contact-us{
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+}
+
+.bi{
+    padding: 5px;
+}
+
+.all-rights-reserved{
+    padding: 10px;
+}
+
+.about-me{
+
+}
